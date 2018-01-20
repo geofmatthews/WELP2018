@@ -1,0 +1,178 @@
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+
+\newcommand{\fig}[1]{
+    \begin{center}
+      \includegraphics[width=\textwidth]{figures/#1}
+    \end{center}
+  }
+
+\title{Tres Cosas Que Juntos Cambiaron Mi Vida}
+\author{Geoffrey Matthews}
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+
+  \item
+Buenas tardes y gracias por venir.  Soy Geoffrey Matthews. Soy
+profesor de informática. He estado aquí en Western por más de 30 años.
+En los últimos años, tres cosas cambiaron, y eso cambió mi vida.
+
+\item
+
+Primero, he aprendido español.  En 2012, decidimos (mi esposa y yo)
+tomar una vacacion a España, así que decidí aprender un poco de
+español. El programa WELP en Western estaba ofreciendo cursos de
+español gratis!  ¿Qué tenía que perder?  Así que empecé.
+
+\item
+
+He descubierto que la mejor forma de aprender idiomas es con clases
+pequeñas o, mejor aún, privadas.  Así que empecé muy pronto a hablar
+con los estudiantes de WELP, como Diane, Eldred, Giselle, Majo,
+Gloria, y otros.  Ellos vinieron a mi oficina y charlar conmigo por un
+rato cada semana.  ¡Es fantastico! ¡Muchísimas gracias a todos!
+
+\item
+
+Mis visitas a España fue unos éxitos fantásticos.  Me encanta viajar,
+conocer gente, y la experiencia de chatear en un idioma extranjero.
+
+\item
+
+Viví con una familia en México por una semana de inmersión intensiva
+en español, y me encantó la experiencia.  Me encanta el español.
+Espero que parezca que la resulta fue un gran éxito, ¿no?
+
+\newpage
+\fig{BLS-STEM-Pct-Total-2024.png}
+
+Eso fue lo primero que pasó.  La segunda cosa que pasó también comenzó
+alrededor del año 2012.  Aunque la informática ha sido una opción de
+carrera viable durante varias décadas, en los últimos años ha
+estallado el número de empleos disponibles.  Y eso no muestra signos
+de desaceleración.  La Bureau of Labor Statistics de los Estados
+Unidos predicen que hasta el 2022 más del 60\% de todos los empleos en
+las ciencias, matemáticas, y engeniería, serán en el campo de la
+informática.  Sí, habrá más empleos para científicos informáticos que
+para todos los demás científicos {\em combinado.}  ¡Más de tres de
+cada cinco!
+
+\newpage
+\fig{cbs-best-11-jobs.png}
+
+Además, estos trabajos son algunos de los mejores y más remunerados.
+en América.  Cuando la CBS publicaron su reciente lista de los
+``Mejores 11 Empleos en América para 2017'', cinco de los diez
+primeros requieren una licenciatura en informática.  Los salarios que
+allí figuran, alrededor de 100.000 dólares al año, son típicos de lo
+que nuestros estudiantes están recibiendo.
+
+Y esos no son los salarios promedios.  ¡Esos son sueldos iniciales!
+
+
+\newpage
+\fig{washington-jobs-vs-grads.png}
+
+Sin embargo, a pesar del creciente número de licenciados en
+informática, el número de empleos disponibles sigue superando su
+número.  Sólo en el Estado de Washington, por ejemplo, se estima que
+hay más de 15.000 empleos abiertos y sólo 1.200 licenciados en
+informática.  Ningún otro campo de la ciencia o las matemáticas o la
+engenieríá tiene números comparables.
+
+
+
+Eso fue lo segundo que pasó.  Primero, aprendí Español.  Segundo, los
+trabajos de informática explotaron. Y no hay suficientes estudiantes
+para cubrir todos los trabajos.
+
+\newpage
+\fig{hispanicPopGrowth_table.png}
+
+La tercera cosa que ocurrió en los últimos años fue la explosión en el
+población latina en los estados unidos.  Especialmente en nuestra
+zona.  En el condado de Whatcom, la población latina actual está cerca
+del 10\%.  En el condado de Skagit, cerca de 20\%.  A nivel nacional,
+el porcentaje de hispanos en los estados unidos hoy es alrededor del
+17\%.
+
+\newpage
+\fig{BLS-pct-occupation.png}
+
+Pero a pesar del creciente número de hispanos, y del creciente número
+de empleos en informática, estas dos estadísticas no están creciendo
+juntos. El porcentaje de hispanos en las profesiones de computación es
+sólo alrededor del 7\%, menos de la mitad de su participación en la
+población, del 17\%.
+
+¡Y lo peor para todas las ocupaciones!
+
+\newpage
+\fig{apexamslatinos.png}
+
+Además, los hispanos todavía no están estudiando informática.  Aqui
+tenemos las estadisticas para hispanos para el examen de AP: el
+población en general, los que toman el examen, y los que obtienen una
+nota mas de 3.
+
+Y las cifras de la examen en informática son peores.
+
+
+Además, muchos estudios muestran que la razón principal de esto es
+falta de comunicación.  Muchos hispanos en la escuela media y secundaria
+simplemente no conocen las oportunidades que ofrece la informática.
+Washington, junto con la mayoría de los otros estados de la unión, todavía
+hace un pobre trabajo de educar a los niños en informática.
+
+\newpage
+
+Así que, ponlo todo junto: Puedo hablar español (bastante bien).  Hay
+muchos trabajos en el mundo de la informática (un montón).  No hay
+muchos hispanos en las ciencias de la computación (debido a la falta
+de comunicación).
+
+Llámame estúpido, pero me llevó bastante tiempo antes de que la
+bombilla se encendió en mi cabeza.  ¡Podría ayudar a conseguir más
+hispanos en informática!  Me gustaría estar ayudando a mi propia
+profesión (necesitamos toda la ayuda que podamos conseguir) y abriendo
+simultáneamente las puertas a oportunidades para una importante
+minoría comunidad en mi área.
+
+\newpage
+
+Y eso es lo que pretendo hacer.  Quiero ir a las escuelas,
+campamentos de codificadores, e incluso las casas, en vecindarios
+predominantemente hispanos y contarles sobre estos hechos.  Tengo el
+placer de anunciarles que acabo de recibir el Premio de Diversidad y
+Justicia Social del Senado de la Facultad Western, dándome tiempo
+libre de enseñar el año que viene para seguir con esto proyecto.
+
+Para hacerlo más divertido, también intento excitarlos sobre
+informática mostrando cómo hacer un videojuego en diez minutos.  Así
+que, me gustaría mostrarselo a ustedes también, ahora mismo.
+
+\newpage
+\hrulefill la demostración \hrulefill
+
+\newpage
+
+Finalmente, quiero hablar un poco sobre mi historia familiar.  Mi
+abuelo era de Cornwall.  La gente de Cornwall fue perseguida por los
+ingleses.  Los niños en la escuela fueron golpeados por hablar su
+propio idioma en lugar del inglés.  Dejó Inglaterra y llegó a América
+para trabajar como herrador de caballos en Filadelfia.  Su nieto, yo,
+ahorita soy miembro de la clase media.  No sufro persecución.  Tengo
+un buen trabajo, familia, casa, todo.  Las cosas pueden cambiar más
+rápido de lo que puedas imaginar.
+
+\end{document}
+

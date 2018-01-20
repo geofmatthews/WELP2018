@@ -1,0 +1,211 @@
+\documentclass{beamer}
+
+\usetheme{Singapore}
+
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{fancybox}
+\usepackage{datapie}
+\usepackage{multicol}
+
+\newcommand{\figpage}[1]{
+  {
+    \usebackgroundtemplate{%
+      \parbox[c][\paperheight][c]{\paperwidth}{\centering\includegraphics[width=\paperwidth]{../figures/#1}}
+    }
+    %    \setbeamertemplate{navigation symbols}{}
+    \begin{frame}[plain]
+    \end{frame}
+  }
+}
+
+\newcommand{\fig}[2]{
+  \includegraphics[width=#1\textwidth]{../figures/#2}
+}
+           
+           
+\title{Tres Cosas Que Juntos Han Cambiado Mi Vida}
+\author{Geoffrey Matthews\\Departamento de Informática\\Western Washington University}
+
+
+\begin{filecontents}{jobs.csv}
+  Name,Quantity
+  "Informatica",74
+  "Ingenieria",16
+  "Matematicas",4
+  "Otros ciencias",6
+\end{filecontents}
+\DTLloaddb{jobs}{jobs.csv}
+
+\begin{document}
+\begin{centering}
+\begin{frame}[fragile]{}
+  \maketitle
+\end{frame}
+
+\begin{frame}[fragile]{La Primera Cosa}
+  \pause
+  \shadowbox{\bf \huge  ¡Español!}
+  
+\end{frame}
+
+\begin{frame}[fragile]{Gracias!}
+  \fig{1.0}{WELP}
+\end{frame}
+
+\figpage{welpsters.png}
+
+\figpage{alcazar.jpg}
+
+\figpage{familiamexicana.jpg}
+
+\begin{frame}[fragile]{La Segunda Cosa}
+  \pause
+  
+  US-BLS: Porcentajes de Nuevos Empleos STEM hasta 2022
+  
+  \vfill
+  
+  \DTLpiechart{variable=\quantity,outerlabel=\name}{jobs}{%
+    \name=Name,\quantity=Quantity}
+  
+  
+\end{frame}
+
+
+
+\begin{frame}[fragile]{Son buenos trabajos!}
+  
+  {\large CBS News:  Los Mejores 11 Empleos en América para 2017}
+  \vfill
+  
+  \begin{tabular}{llrl}
+    1.& Data Scientist & \$110,000 & licenciatura en informática \\
+    2.& DevOps Engineer & \$110,000 &  licenciatura en informática \\
+    3.& Data Engineer & \$106,000 &  licenciatura en informática \\
+    7.& Database Administrator & \$93,000 &  licenciatura en informática \\
+    9.& UX Designer & \$92,500 &  licenciatura en informática \\
+  \end{tabular}
+  
+\end{frame}
+
+\begin{frame}[fragile]{El trabajo puede ser relevante y significativo.}
+  
+  {Análisis de las milicias a través de las redes sociales.}
+  
+  
+  \vfill
+  
+  \fig{1.0}{saiph}
+  
+  
+  
+\end{frame}
+
+\begin{frame}[fragile]{La Crisis de la Informática}
+  
+  {Muchos buenos empleos pero pocos graduados en informática.}
+  
+  \vfill
+  
+  \begin{tikzpicture}
+    \foreach  \l/\x/\c[count=\y] in {Graduados: 59\char44 581/.59581/red, Empleos disponibles: 527\char44 169/5.27169/blue}
+              {\node[left] at (0,\y) {\l};
+                \draw[fill=\c] (0,\y-.4) rectangle (\x,\y+.4);}
+  \end{tikzpicture}
+  
+  
+\end{frame}
+
+\begin{frame}[fragile]{La Tercera Cosa}
+  \pause
+  
+  Crecimiento de la población hispana.
+  \vfill
+  \fig{1.0}{hispanicpopgrowth}
+\end{frame}
+
+
+\begin{frame}[fragile]{¿La Solución a la Crisis de la Informática?}
+  \pause
+  
+  \shadowbox{\bf \huge ¡Más Minorías y Mujeres!}
+  \pause
+  
+  \fig{1.0}{whitesdominate}
+\end{frame}
+
+
+\begin{frame}[fragile]{Las Empresas Entienden Esto}
+
+  {\bf \Large The Generation Google Scholarship}
+
+  \begin{itemize}
+  \item Solo para minorías.
+  \item \$10,000
+  \item Tienes la oportunidad de asistir al Google.
+  \end{itemize}
+
+\end{frame}
+\begin{frame}[fragile]{Y Hay Muchas Otras Becas y Pasantías}
+
+
+%\begin{multicols}{2}
+  \begin{itemize}
+  \item Accenture
+  \item ESA Foundation
+  \item Gates Millennium Scholars Program
+  \item Great Minds in STEM/HENAAC Scholars Program
+  \item Hispanic Scholarship Fund
+  \item INROADS Internship Program
+  \item Microsoft Minority Scholarships
+  \item NASA/Motivating Undergraduates in Science and Technology Project (MUST)
+  \item National Action Council for Minorities in Engineering (NACME)
+  \item Society of Hispanic Professional Engineers (SHPE) Foundation
+  \item Ventures Scholars Program
+  \item Xerox Technical Minority Scholarship
+  \item ...
+  \end{itemize}
+%\end{multicols}
+
+  
+\end{frame}
+
+\begin{frame}[fragile]{¿Que Podemos Hacer?}
+
+  \begin{itemize}
+  \item Hay muchos buenos empleos en la informática.
+  \item Hay muchas becas y pasantías en  la informática.
+  \item Las minorías estan poco representadas en  la informática.
+  \item Los estudios muestran que el problema es la comunicación.
+  \end{itemize}
+
+  \vfill\pause
+
+  \shadowbox{\bf\huge ¡Decirles a los estudiantes!}
+
+\end{frame}
+
+\begin{frame}[fragile]{Una Demostración de Programación}
+  \fig{1.0}{blendershot}
+  
+
+\end{frame}
+
+\begin{frame}[fragile]{Un Poco de Historia Familiar}
+  \fig{1.0}{horseshoer}
+\end{frame}
+
+
+\begin{frame}[fragile]{Para Cambiar el Mundo Sólo Necesitan Ganas}
+  \fig{1.0}{happycomputing}
+
+  Preguntas?
+  
+\end{frame}
+
+
+\end{centering}
+\end{document}
