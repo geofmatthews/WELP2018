@@ -1,12 +1,12 @@
 InfoBegin
 InfoKey: ModDate
-InfoValue: D:20180130133506-08'00'
+InfoValue: D:20180130154350-08'00'
 InfoBegin
 InfoKey: PTEX.Fullbanner
 InfoValue: This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) kpathsea version 6.2.1
 InfoBegin
 InfoKey: CreationDate
-InfoValue: D:20180130133506-08'00'
+InfoValue: D:20180130154350-08'00'
 InfoBegin
 InfoKey: Author
 InfoValue: Geoffrey MatthewsDepartamento de Inform&#225;ticaWestern Washington University
@@ -19,8 +19,8 @@ InfoValue: LaTeX with Beamer class version 3.36
 InfoBegin
 InfoKey: Producer
 InfoValue: pdfTeX-1.40.16
-PdfID0: 88b28cdf6ce42b27a12bef7715c2ba33
-PdfID1: 88b28cdf6ce42b27a12bef7715c2ba33
+PdfID0: 74f5636dccf410be3ca97cf4879edc95
+PdfID1: 74f5636dccf410be3ca97cf4879edc95
 NumberOfPages: 23
 PageMediaBegin
 PageMediaNumber: 1
