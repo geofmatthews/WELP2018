@@ -20,6 +20,16 @@
     \end{frame}
   }
 }
+\newcommand{\figpagetall}[1]{
+  {
+    \usebackgroundtemplate{%
+      \parbox[c][\paperheight][c]{\paperwidth}{\centering\includegraphics[width=0.5\paperwidth]{../figures/#1}}
+    }
+    %    \setbeamertemplate{navigation symbols}{}
+    \begin{frame}[plain]
+    \end{frame}
+  }
+}
 
 \newcommand{\fig}[2]{
   \includegraphics[width=#1\textwidth]{../figures/#2}
@@ -139,14 +149,16 @@ Como Hacer un Videojuego en Diez Minutos}
 \end{frame}
 
 
-\begin{frame}[fragile]{Las Empresas Entienden Esto}
+\begin{frame}[fragile]{Washington State Opportunity Scholarship}
 
-  {\bf \Large The Generation Google Scholarship}
 
   \begin{itemize}
-  \item Solo para minorías.
-  \item \$10,000
-  \item Tienes la oportunidad de asistir al Google.
+  \item Solo para las familias de ingresos bajos y medios.
+  \item Un premio de hasta \$22,500.
+  \item 60\% son mujeres.
+  \item 73\% son estudiantes de color.
+  \item 72\% son estudiantes universitarios de primera generación.
+  \item 49\% de los solicitantes recibieron becas.
   \end{itemize}
 
 \end{frame}
@@ -155,6 +167,7 @@ Como Hacer un Videojuego en Diez Minutos}
 
 %\begin{multicols}{2}
   \begin{itemize}
+  \item The Generation Google Scholarship
   \item Accenture
   \item ESA Foundation
   \item Gates Millennium Scholars Program
@@ -195,9 +208,9 @@ Como Hacer un Videojuego en Diez Minutos}
 
 \end{frame}
 
-\begin{frame}[fragile]{Un Poco de Historia Familiar}
-  \fig{1.0}{horseshoer}
-\end{frame}
+
+\figpagetall{sammatthewshorseshoer}
+
 
 
 \begin{frame}[fragile]{Para Cambiar el Mundo Sólo Necesitan Ganas}

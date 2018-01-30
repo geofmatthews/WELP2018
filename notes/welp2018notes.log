@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.3)  19 JAN 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.3)  30 JAN 2018 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,139 +470,139 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<../singlepages/page_1.pdf, id=1, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_1.pdf Graphic file (type pdf)
+<../singlepages/pg_0001.pdf, id=1, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0001.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_1.pdf>
-Package pdftex.def Info: ../singlepages/page_1.pdf used on input line 27.
+<use ../singlepages/pg_0001.pdf>
+Package pdftex.def Info: ../singlepages/pg_0001.pdf used on input line 27.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../singlepages/page_1.pdf>
-]
-<../singlepages/page_3.pdf, id=22, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_3.pdf Graphic file (type pdf)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../singlepages/pg_0001.pdf
+>]
+<../singlepages/pg_0003.pdf, id=22, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0003.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_3.pdf>
-Package pdftex.def Info: ../singlepages/page_3.pdf used on input line 32.
+<use ../singlepages/pg_0003.pdf>
+Package pdftex.def Info: ../singlepages/pg_0003.pdf used on input line 32.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [2 <../singlepages/page_3.pdf>]
-<../singlepages/page_4.pdf, id=38, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_4.pdf Graphic file (type pdf)
+ [2 <../singlepages/pg_0003.pdf>]
+<../singlepages/pg_0004.pdf, id=38, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0004.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_4.pdf>
-Package pdftex.def Info: ../singlepages/page_4.pdf used on input line 38.
+<use ../singlepages/pg_0004.pdf>
+Package pdftex.def Info: ../singlepages/pg_0004.pdf used on input line 38.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [3 <../singlepages/page_4.pdf>]
-<../singlepages/page_5.pdf, id=49, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_5.pdf Graphic file (type pdf)
+ [3 <../singlepages/pg_0004.pdf>]
+<../singlepages/pg_0005.pdf, id=49, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0005.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_5.pdf>
-Package pdftex.def Info: ../singlepages/page_5.pdf used on input line 43.
+<use ../singlepages/pg_0005.pdf>
+Package pdftex.def Info: ../singlepages/pg_0005.pdf used on input line 43.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [4 <../singlepages/page_5.pdf>]
-<../singlepages/page_6.pdf, id=57, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_6.pdf Graphic file (type pdf)
+ [4 <../singlepages/pg_0005.pdf>]
+<../singlepages/pg_0006.pdf, id=57, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0006.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_6.pdf>
-Package pdftex.def Info: ../singlepages/page_6.pdf used on input line 51.
+<use ../singlepages/pg_0006.pdf>
+Package pdftex.def Info: ../singlepages/pg_0006.pdf used on input line 51.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [5 <../singlepages/page_6.pdf>]
-<../singlepages/page_7.pdf, id=63, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_7.pdf Graphic file (type pdf)
+ [5 <../singlepages/pg_0006.pdf>]
+<../singlepages/pg_0007.pdf, id=63, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0007.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_7.pdf>
-Package pdftex.def Info: ../singlepages/page_7.pdf used on input line 56.
+<use ../singlepages/pg_0007.pdf>
+Package pdftex.def Info: ../singlepages/pg_0007.pdf used on input line 56.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [6 <../singlepages/page_7.pdf>]
-<../singlepages/page_9.pdf, id=69, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_9.pdf Graphic file (type pdf)
+ [6 <../singlepages/pg_0007.pdf>]
+<../singlepages/pg_0009.pdf, id=69, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0009.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_9.pdf>
-Package pdftex.def Info: ../singlepages/page_9.pdf used on input line 68.
+<use ../singlepages/pg_0009.pdf>
+Package pdftex.def Info: ../singlepages/pg_0009.pdf used on input line 68.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 75.
- [7 <../singlepages/page_9.pdf>]
-<../singlepages/page_10.pdf, id=84, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_10.pdf Graphic file (type pdf)
+ [7 <../singlepages/pg_0009.pdf>]
+<../singlepages/pg_0010.pdf, id=84, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0010.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_10.pdf>
-Package pdftex.def Info: ../singlepages/page_10.pdf used on input line 81.
+<use ../singlepages/pg_0010.pdf>
+Package pdftex.def Info: ../singlepages/pg_0010.pdf used on input line 81.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [8 <../singlepages/page_10.pdf>]
-<../singlepages/page_11.pdf, id=97, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_11.pdf Graphic file (type pdf)
+ [8 <../singlepages/pg_0010.pdf>]
+<../singlepages/pg_0011.pdf, id=97, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0011.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_11.pdf>
-Package pdftex.def Info: ../singlepages/page_11.pdf used on input line 93.
+<use ../singlepages/pg_0011.pdf>
+Package pdftex.def Info: ../singlepages/pg_0011.pdf used on input line 93.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [9 <../singlepages/page_11.pdf>]
-<../singlepages/page_12.pdf, id=111, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_12.pdf Graphic file (type pdf)
+ [9 <../singlepages/pg_0011.pdf>]
+<../singlepages/pg_0012.pdf, id=111, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0012.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_12.pdf>
-Package pdftex.def Info: ../singlepages/page_12.pdf used on input line 106.
+<use ../singlepages/pg_0012.pdf>
+Package pdftex.def Info: ../singlepages/pg_0012.pdf used on input line 106.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [10 <../singlepages/page_12.pdf>]
-<../singlepages/page_14.pdf, id=124, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_14.pdf Graphic file (type pdf)
+ [10 <../singlepages/pg_0012.pdf>]
+<../singlepages/pg_0014.pdf, id=124, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0014.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_14.pdf>
-Package pdftex.def Info: ../singlepages/page_14.pdf used on input line 114.
+<use ../singlepages/pg_0014.pdf>
+Package pdftex.def Info: ../singlepages/pg_0014.pdf used on input line 114.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [11 <../singlepages/page_14.pdf>]
-<../singlepages/page_16.pdf, id=138, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_16.pdf Graphic file (type pdf)
+ [11 <../singlepages/pg_0014.pdf>]
+<../singlepages/pg_0016.pdf, id=138, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0016.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_16.pdf>
-Package pdftex.def Info: ../singlepages/page_16.pdf used on input line 128.
+<use ../singlepages/pg_0016.pdf>
+Package pdftex.def Info: ../singlepages/pg_0016.pdf used on input line 128.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [12 <../singlepages/page_16.pdf>]
-<../singlepages/page_17.pdf, id=154, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_17.pdf Graphic file (type pdf)
+ [12 <../singlepages/pg_0016.pdf>]
+<../singlepages/pg_0017.pdf, id=154, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0017.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_17.pdf>
-Package pdftex.def Info: ../singlepages/page_17.pdf used on input line 149.
+<use ../singlepages/pg_0017.pdf>
+Package pdftex.def Info: ../singlepages/pg_0017.pdf used on input line 149.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [13 <../singlepages/page_17.pdf>]
-<../singlepages/page_18.pdf, id=177, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_18.pdf Graphic file (type pdf)
+ [13 <../singlepages/pg_0017.pdf>]
+<../singlepages/pg_0018.pdf, id=174, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0018.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_18.pdf>
-Package pdftex.def Info: ../singlepages/page_18.pdf used on input line 159.
+<use ../singlepages/pg_0018.pdf>
+Package pdftex.def Info: ../singlepages/pg_0018.pdf used on input line 156.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [14 <../singlepages/page_18.pdf>]
-<../singlepages/page_20.pdf, id=193, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_20.pdf Graphic file (type pdf)
+ [14 <../singlepages/pg_0018.pdf>]
+<../singlepages/pg_0020.pdf, id=190, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0020.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_20.pdf>
-Package pdftex.def Info: ../singlepages/page_20.pdf used on input line 163.
+<use ../singlepages/pg_0020.pdf>
+Package pdftex.def Info: ../singlepages/pg_0020.pdf used on input line 160.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [15 <../singlepages/page_20.pdf>]
-<../singlepages/page_21.pdf, id=212, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_21.pdf Graphic file (type pdf)
+ [15 <../singlepages/pg_0020.pdf>]
+<../singlepages/pg_0021.pdf, id=209, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0021.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_21.pdf>
-Package pdftex.def Info: ../singlepages/page_21.pdf used on input line 169.
+<use ../singlepages/pg_0021.pdf>
+Package pdftex.def Info: ../singlepages/pg_0021.pdf used on input line 166.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [16 <../singlepages/page_21.pdf>]
-<../singlepages/page_22.pdf, id=223, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_22.pdf Graphic file (type pdf)
+ [16 <../singlepages/pg_0021.pdf>]
+<../singlepages/pg_0022.pdf, id=220, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0022.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_22.pdf>
-Package pdftex.def Info: ../singlepages/page_22.pdf used on input line 171.
+<use ../singlepages/pg_0022.pdf>
+Package pdftex.def Info: ../singlepages/pg_0022.pdf used on input line 168.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [17 <../singlepages/page_22.pdf>]
-<../singlepages/page_23.pdf, id=234, 364.19562pt x 273.14648pt>
-File: ../singlepages/page_23.pdf Graphic file (type pdf)
+ [17 <../singlepages/pg_0022.pdf>]
+<../singlepages/pg_0023.pdf, id=228, 364.19562pt x 273.14648pt>
+File: ../singlepages/pg_0023.pdf Graphic file (type pdf)
 
-<use ../singlepages/page_23.pdf>
-Package pdftex.def Info: ../singlepages/page_23.pdf used on input line 183.
+<use ../singlepages/pg_0023.pdf>
+Package pdftex.def Info: ../singlepages/pg_0023.pdf used on input line 179.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [18 <../singlepages/page_23.pdf>]
+ [18 <../singlepages/pg_0023.pdf>]
 (./welp2018notes.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
@@ -611,7 +611,7 @@ LaTeX Info: Redefining \% on input line 10.
 ) ) 
 Here is how much of TeX's memory you used:
  2662 strings out of 494827
- 36030 string characters out of 6176977
+ 36065 string characters out of 6176977
  95593 words of memory out of 5000000
  5940 multiletter control sequences out of 15000+600000
  6120 words of font info for 22 fonts, out of 8000000 for 9000
@@ -625,10 +625,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb>
-Output written on welp2018notes.pdf (18 pages, 9421904 bytes).
+Output written on welp2018notes.pdf (18 pages, 26050447 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+ 261 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
