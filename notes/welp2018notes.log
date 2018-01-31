@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.3)  30 JAN 2018 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.1.3)  30 JAN 2018 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -519,70 +519,76 @@ Package pdftex.def Info: ../singlepages/pg_0007.pdf used on input line 79.
 File: ../singlepages/pg_0009.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0009.pdf>
-Package pdftex.def Info: ../singlepages/pg_0009.pdf used on input line 93.
+Package pdftex.def Info: ../singlepages/pg_0009.pdf used on input line 94.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 107.
+(Font)              <17.28> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 107.
+(Font)              <12> on input line 108.
  [7 <../singlepages/pg_0009.pdf>]
 <../singlepages/pg_0010.pdf, id=84, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0010.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0010.pdf>
-Package pdftex.def Info: ../singlepages/pg_0010.pdf used on input line 117.
+Package pdftex.def Info: ../singlepages/pg_0010.pdf used on input line 118.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [8 <../singlepages/pg_0010.pdf>]
 <../singlepages/pg_0011.pdf, id=97, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0011.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0011.pdf>
-Package pdftex.def Info: ../singlepages/pg_0011.pdf used on input line 134.
+Package pdftex.def Info: ../singlepages/pg_0011.pdf used on input line 135.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
- [9 <../singlepages/pg_0011.pdf>]
+
+Overfull \hbox (11.58043pt too wide) in paragraph at lines 152--153
+[]\OT1/cmr/m/n/17.28 Se pue-do con-tri-buir al bien so-cial es-tu-dian-do in-fo
+rm^^Sati-
+ []
+
+[9 <../singlepages/pg_0011.pdf>]
 <../singlepages/pg_0012.pdf, id=111, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0012.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0012.pdf>
-Package pdftex.def Info: ../singlepages/pg_0012.pdf used on input line 151.
+Package pdftex.def Info: ../singlepages/pg_0012.pdf used on input line 155.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [10 <../singlepages/pg_0012.pdf>]
 <../singlepages/pg_0014.pdf, id=124, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0014.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0014.pdf>
-Package pdftex.def Info: ../singlepages/pg_0014.pdf used on input line 163.
+Package pdftex.def Info: ../singlepages/pg_0014.pdf used on input line 167.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [11 <../singlepages/pg_0014.pdf>]
 <../singlepages/pg_0016.pdf, id=138, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0016.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0016.pdf>
-Package pdftex.def Info: ../singlepages/pg_0016.pdf used on input line 186.
+Package pdftex.def Info: ../singlepages/pg_0016.pdf used on input line 190.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [12 <../singlepages/pg_0016.pdf>]
 <../singlepages/pg_0017.pdf, id=154, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0017.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0017.pdf>
-Package pdftex.def Info: ../singlepages/pg_0017.pdf used on input line 211.
+Package pdftex.def Info: ../singlepages/pg_0017.pdf used on input line 217.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [13 <../singlepages/pg_0017.pdf>]
 <../singlepages/pg_0018.pdf, id=174, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0018.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0018.pdf>
-Package pdftex.def Info: ../singlepages/pg_0018.pdf used on input line 226.
+Package pdftex.def Info: ../singlepages/pg_0018.pdf used on input line 232.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [14 <../singlepages/pg_0018.pdf>]
 <../singlepages/pg_0020.pdf, id=190, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0020.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0020.pdf>
-Package pdftex.def Info: ../singlepages/pg_0020.pdf used on input line 237.
+Package pdftex.def Info: ../singlepages/pg_0020.pdf used on input line 245.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
 
-Overfull \hbox (4.93192pt too wide) in paragraph at lines 247--250
+Overfull \hbox (4.93192pt too wide) in paragraph at lines 255--258
 \OT1/cmr/m/n/17.28 di-ver-si-dad y jus-ti-cia so-cial de Wes-tern, d^^Sando-me 
 tiem-
  []
@@ -592,21 +598,21 @@ tiem-
 File: ../singlepages/pg_0021.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0021.pdf>
-Package pdftex.def Info: ../singlepages/pg_0021.pdf used on input line 252.
+Package pdftex.def Info: ../singlepages/pg_0021.pdf used on input line 260.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [16 <../singlepages/pg_0021.pdf>]
 <../singlepages/pg_0022.pdf, id=220, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0022.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0022.pdf>
-Package pdftex.def Info: ../singlepages/pg_0022.pdf used on input line 265.
+Package pdftex.def Info: ../singlepages/pg_0022.pdf used on input line 273.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [17 <../singlepages/pg_0022.pdf>]
 <../singlepages/pg_0023.pdf, id=228, 364.19562pt x 273.14648pt>
 File: ../singlepages/pg_0023.pdf Graphic file (type pdf)
 
 <use ../singlepages/pg_0023.pdf>
-Package pdftex.def Info: ../singlepages/pg_0023.pdf used on input line 290.
+Package pdftex.def Info: ../singlepages/pg_0023.pdf used on input line 298.
 (pdftex.def)             Requested size: 216.81pt x 162.6096pt.
  [18 <../singlepages/pg_0023.pdf>]
 (./welp2018notes.aux
@@ -631,7 +637,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb>
-Output written on welp2018notes.pdf (18 pages, 26052968 bytes).
+Output written on welp2018notes.pdf (18 pages, 26053400 bytes).
 PDF statistics:
  261 PDF objects out of 1000 (max. 8388607)
  186 compressed objects within 2 object streams
