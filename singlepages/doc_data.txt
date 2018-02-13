@@ -1,26 +1,26 @@
 InfoBegin
 InfoKey: ModDate
-InfoValue: D:20180130170648-08'00'
+InfoValue: D:20180205111135-08'00'
 InfoBegin
 InfoKey: PTEX.Fullbanner
 InfoValue: This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) kpathsea version 6.2.1
 InfoBegin
 InfoKey: CreationDate
-InfoValue: D:20180130170648-08'00'
+InfoValue: D:20180205111135-08'00'
 InfoBegin
 InfoKey: Author
 InfoValue: Geoffrey MatthewsDepartamento de Inform&#225;ticaWestern Washington University
 InfoBegin
 InfoKey: Title
-InfoValue: Tres Cosas Que Juntos Han Cambiado Mi Vida o  Como Hacer un Videojuego en Diez Minutos
+InfoValue: Tres Cosas Que Juntas Han Cambiado Mi Vida o  Como Hacer un Videojuego en Diez Minutos
 InfoBegin
 InfoKey: Creator
 InfoValue: LaTeX with Beamer class version 3.36
 InfoBegin
 InfoKey: Producer
 InfoValue: pdfTeX-1.40.16
-PdfID0: 6e2ca00d517ab8a426ddc4614ba48a57
-PdfID1: 6e2ca00d517ab8a426ddc4614ba48a57
+PdfID0: e9e78199037ecbcf1dbed94653ab2b7e
+PdfID1: e9e78199037ecbcf1dbed94653ab2b7e
 NumberOfPages: 23
 PageMediaBegin
 PageMediaNumber: 1
